@@ -22,8 +22,6 @@
 - 🧩 **Algorithm Design & Problem-Solving**
 - 🎨 **Web & Mobile Design** — UI/UX principles, prototyping
 
-Thanks for visiting my page.
-
 
 <p align="center">
   <sub>“Make it clear. Make it useful. Make it ship.”</sub>
