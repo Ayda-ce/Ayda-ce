@@ -22,11 +22,7 @@
 - 🧩 **Algorithm Design & Problem-Solving**
 - 🎨 **Web & Mobile Design** — UI/UX principles, prototyping
 
-
-### 🏆 Values
-- Minimal surface, maximal clarity  
-- Small, composable modules  
-- Readable commits (Conventional Commits)
+Thanks for visiting my page.
 
 
 <p align="center">
