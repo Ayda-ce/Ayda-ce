@@ -12,7 +12,7 @@
 
 
 ### ⚙️ Technical Skills
-- 🐍 **Python** — Data Analysis, Machine Learning
+- 🐍 **Python** — Data Analysis
 - ⚙️ **C++**
 - 🗄️ **SQL**
 - 📊 **Data Visualization** — Power BI, Tableau, Matplotlib
