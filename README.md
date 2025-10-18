@@ -12,15 +12,15 @@
 
 
 ### ⚙️ Technical Skills
-- 🐍 **Python** — Data Analysis
+- 🐍 **Python** - Data Analysis
 - ⚙️ **C++**
 - 🗄️ **SQL**
-- 📊 **Data Visualization** — Power BI, Tableau, Matplotlib
+- 📊 **Data Visualization** - Power BI, Tableau, Matplotlib
 - 🌱 **Git & Version Control**
-- 🐧 **Linux** — Command Line, Bash/Shell
-- 📈 **Microsoft Excel** — Data Cleaning, Pivot Tables, Analysis
+- 🐧 **Linux** - Command Line, Bash/Shell
+- 📈 **Microsoft Excel** - Data Cleaning, Pivot Tables, Analysis
 - 🧩 **Algorithm Design & Problem-Solving**
-- 🎨 **Web & Mobile Design** — UI/UX principles, prototyping
+- 🎨 **Web & Mobile Design** - UI/UX principles, prototyping
 
 
 
