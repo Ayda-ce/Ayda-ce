@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Ayda ✨</h1>
 <p align="center">
-  C++ & Python developer with a strong interest in data — I love turning raw info into clean, usable tools and CLIs. 🚀
+  C++ & Python developer with a strong interest in data - I love turning raw info into clean, usable tools and CLIs. 🚀
 </p>
 
 ---
