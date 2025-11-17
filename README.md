@@ -1,30 +1,47 @@
-<h1 align="center">Hey, I'm Ayda ✨</h1>
+<h1 align="center">Ayda Mokhtari Asl</h1>
+
 <p align="center">
-  C++ & Python developer with a strong interest in data - I love turning raw info into clean, usable tools and CLIs. 🚀
+  Computer Engineering graduate with a growing focus on data-driven systems, analytical methods, and clean software design.
 </p>
 
 ---
 
-### ⚡ What I do
-- 🧩 Build tidy, system-style **C++17 CLI** apps (tabular output, clean UX)
-- 🐍 Ship **Python** tools (PyQt/automation) and light-weight data scripts
-- 📊 Work with datasets: quick analysis, file I/O pipelines, and reporting
+## 🔹 Areas of Interest
+- Data Science and analytical modeling  
+- Machine learning fundamentals  
+- Intelligent and data-aware systems  
+- System design, automation, and structured tooling  
 
+---
 
-### ⚙️ Technical Skills
-- 🐍 **Python** - Data Analysis
-- ⚙️ **C++**
-- 🗄️ **SQL**
-- 📊 **Data Visualization** - Power BI, Tableau, Matplotlib
-- 🌱 **Git & Version Control**
-- 🐧 **Linux** - Command Line, Bash/Shell
-- 📈 **Microsoft Excel** - Data Cleaning, Pivot Tables, Analysis
-- 🧩 **Algorithm Design & Problem-Solving**
-- 🎨 **Web & Mobile Design** - UI/UX principles, prototyping
+## ⚙️ Technical Skills
+- **Python** – Data analysis, scripting, automation  
+- **C++** – Structured programming and system-oriented development  
+- **SQL** – Data querying and handling  
+- **Data Visualization** – Power BI, Tableau, Matplotlib  
+- **Linux & Shell** – CLI workflows and bash scripting  
+- **Excel** – Data cleaning, pivot analysis, reporting  
+- **Algorithms & Problem-Solving**  
+- **UI/UX Principles** – Wireframes, prototyping, layout reasoning  
 
+---
 
+## 🔧 What I Work On
+- Lightweight CLI utilities  
+- Python-based analytical tools  
+- Basic data workflows and reporting pipelines  
+- Explorations in ML concepts and intelligent behavior modeling  
 
+---
+
+## 🎯 Current Focus
+- Strengthening analytical and statistical foundations  
+- Studying machine learning theory and applications  
+- Building small, reliable tools that support data-driven reasoning  
+- Exploring how data and system behavior interact in real environments  
+
+---
 
 <p align="center">
-  <sub>“Make it clear. Make it useful. Make it ship.”</sub>
+  <sub>“Clarity, structure, and useful outcomes.”</sub>
 </p>
