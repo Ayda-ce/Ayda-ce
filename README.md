@@ -1,7 +1,4 @@
-<h1 align="center">Ayda Mokhtari Asl</h1>
-
-<p align="center">
-  Computer Engineering graduate with a growing focus on data-driven systems, analytical methods, and clean software design.
+<h1 align="center">Hey, I'm Ayda ✨</h1> <p align="center">
 </p>
 
 ---
