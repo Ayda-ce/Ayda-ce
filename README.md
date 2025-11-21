@@ -41,4 +41,6 @@
 
 ---
 
-<h3 align="center"><i>Patterns matter. Details matter.</i></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Patterns%20matter.%20Details%20matter.-181825?style=for-the-badge&labelColor=1e1e2e&color=313244" />
+</p>
