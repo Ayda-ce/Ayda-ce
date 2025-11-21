@@ -30,6 +30,8 @@
   </div>
 
   <h3 style="margin:0; font-size:14px; color:#fb7185;">
+    <p align="center" style="color:#facc15; font-size:15px;"><i>Patterns matter. Details matter.</i></p>
+
     <i>Patterns matter. Details matter.</i>
   </h3>
 
