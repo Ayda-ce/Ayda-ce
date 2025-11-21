@@ -22,7 +22,7 @@
   <p align="center" style="color:#fb7185; font-size:15px;"><i>Patterns matter. Details matter.</i></p>
 
     I love exploring patterns, system behavior, ML foundations, and building clean, intelligent, data-aware tools.
-  <p align="center" style="color:#fb7185; font-size:15px;"><i>Patterns matter. Details matter.</i></p>
+  <p align="center" style="color:#fb7185; font-size:15px;">
 
 
   <div style="font-size:34px; color:#facc15; line-height:0.5; margin:6px 0 10px 0;">
