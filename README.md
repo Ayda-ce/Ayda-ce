@@ -6,14 +6,13 @@
 
 ---
 
-## 📦 Skill & Info Grid
+## 📦 Skill & Info Boxes
 
+<!-- ROW 1 -->
 <div align="center">
-  <table>
-    <tr>
-      <!-- TOP LEFT -->
-      <td width="50%" valign="top">
 
+<div style="width:45%; display:inline-block; vertical-align:top; border:1px solid #555; border-radius:10px; padding:15px; margin:10px;">
+  
 ### 🛠️ Technical Skills
 - Python  
 - C++  
@@ -27,10 +26,9 @@
 - Algorithms & Problem-Solving  
 - UI/UX Principles  
 
-      </td>
+</div>
 
-      <!-- TOP RIGHT -->
-      <td width="50%" valign="top">
+<div style="width:45%; display:inline-block; vertical-align:top; border:1px solid #555; border-radius:10px; padding:15px; margin:10px;">
 
 ### 🔎 What I Like to Explore
 - Patterns in data & system behavior  
@@ -38,30 +36,33 @@
 - Intelligent, data-aware systems  
 - Clean & structured development  
 
-      </td>
-    </tr>
+</div>
 
-    <!-- SECOND ROW -->
-    <tr>
-      <td width="50%" valign="top">
+</div>
+
+---
+
+<!-- ROW 2 -->
+<div align="center">
+
+<div style="width:45%; display:inline-block; vertical-align:top; border:1px solid #555; border-radius:10px; padding:15px; margin:10px;">
 
 ### 📊 Most Used Languages
 <p align="center">
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayda-ce&layout=compact&theme=tokyonight&border_radius=12&langs_count=8" />
 </p>
 
-      </td>
+</div>
 
-      <td width="50%" valign="top">
+<div style="width:45%; display:inline-block; vertical-align:top; border:1px solid #555; border-radius:10px; padding:15px; margin:10px;">
 
 ### ✨ Random Dev Quote
 <p align="center">
   <img width="300" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </p>
 
-      </td>
-    </tr>
-  </table>
+</div>
+
 </div>
 
 ---
