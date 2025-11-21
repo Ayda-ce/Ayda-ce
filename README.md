@@ -6,42 +6,30 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills & Interests
+
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td width="50%">
 
-**Languages & Tools**  
+### 🛠️ Technical Skills
 - Python  
 - C++  
 - SQL  
 - Linux & Bash  
 - Git  
-
-**Data & Visualization**  
 - Data Analysis  
 - Power BI  
 - Tableau  
 - Matplotlib  
-
-**Other**  
 - Algorithms & Problem-Solving  
 - UI/UX Principles  
 
       </td>
-    </tr>
-  </table>
-</div>
+      <td width="50%">
 
----
-
-## 🔎 What I Like to Explore
-<div align="center">
-  <table>
-    <tr>
-      <td>
-
+### 🔎 What I Like to Explore
 - Patterns in data & system behavior  
 - Machine learning foundations  
 - Intelligent, data-aware systems  
