@@ -21,7 +21,8 @@
 
   <p style="margin:0 0 14px 0; font-size:14px; line-height:1.6; color:#e5e7eb;">
     I love exploring patterns, system behavior, ML foundations, and building clean, intelligent, data-aware tools.
-  </p>
+  <p align="center" style="color:#fb7185; font-size:15px;"><i>Patterns matter. Details matter.</i></p>
+
 
   <div style="font-size:34px; color:#facc15; line-height:0.5; margin:6px 0 10px 0;">
     ❞
