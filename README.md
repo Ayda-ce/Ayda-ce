@@ -14,7 +14,14 @@
 
 ---
 
+## 🔎 What I Like to Explore
+- Patterns in data and system behavior  
+- Foundations of machine learning  
+- Intelligent and data-aware systems  
+- Clean, structured tools for real-world use  
+
+---
 <p align="center">
-  <h2 align="center"><i>Make it clear. Make it useful. Make it ship</i></h2>
+  <h2 align="center"><i>Patterns matter. Details matter.</i></h2>
 
 </p>
