@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Ayda ✨</h1> <p align="center">
-</p>
+<h1 align="center">Hey, I'm Ayda ✨</h1>
+<p align="center"></p>
 
 ## 🛠️ Technical Skills
 - Python  
@@ -21,6 +21,5 @@
 - Clean, structured tools for real-world use  
 
 ---
-<p align="center">
-  <h1 align="center"><i>Patterns matter. Details matter.</i></h2>
 
+<h3 align="center"><i>Patterns matter. Details matter.</i></h3>
