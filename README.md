@@ -11,7 +11,7 @@
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   ">
 
-  <div style="font-size:34px; color:#facc15; line-height:0.5; margin-bottom:8px;">
+  <div style="font-size:34px; color:pink; line-height:0.5; margin-bottom:8px;">
     ❝
   </div>
 
@@ -19,19 +19,15 @@
     Hey, I'm Ayda ✨
   </h1>
 
-  <p align="center" style="color:#fb7185; font-size:15px;"><i>Patterns matter. Details matter.</i></p>
+  <p align="center" style="color:yellow; font-size:15px;"><i>Patterns matter. Details matter.</i></p>
 
-    I love exploring patterns, system behavior, ML foundations, and building clean, intelligent, data-aware tools.
-  <p align="center" style="color:#fb7185; font-size:15px;">
+  I love exploring patterns, system behavior, ML foundations, and building clean, intelligent, data-aware tools.
 
+  <p align="center" style="color:yellow; font-size:15px;"><i>Patterns matter. Details matter.</i></p>
 
-  <div style="font-size:34px; color:#facc15; line-height:0.5; margin:6px 0 10px 0;">
+  <div style="font-size:34px; color:pink; line-height:0.5; margin:6px 0 10px 0;">
     ❞
   </div>
-
-  <h3 style="margin:0; font-size:14px; color:#fb7185;">
-<p align="center" style="color:#facc15; font-size:15px;"><i>Patterns matter. Details matter.</i></p>
-
 
   </div>
 
