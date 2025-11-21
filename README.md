@@ -22,6 +22,5 @@
 
 ---
 <p align="center">
-  <h2 align="center"><i>Patterns matter. Details matter.</i></h2>
+  <h1 align="center"><i>Patterns matter. Details matter.</i></h2>
 
-</p>
