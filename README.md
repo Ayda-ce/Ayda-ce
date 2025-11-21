@@ -7,23 +7,50 @@
 ---
 
 ## 🛠️ Technical Skills
+<div align="center">
+  <table>
+    <tr>
+      <td>
+
+**Languages & Tools**  
 - Python  
 - C++  
 - SQL  
-- Data Analysis  
-- Data Visualization (Power BI, Tableau, Matplotlib)  
 - Linux & Bash  
 - Git  
+
+**Data & Visualization**  
+- Data Analysis  
+- Power BI  
+- Tableau  
+- Matplotlib  
+
+**Other**  
 - Algorithms & Problem-Solving  
 - UI/UX Principles  
+
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🔎 What I Like to Explore
+<div align="center">
+  <table>
+    <tr>
+      <td>
+
 - Patterns in data & system behavior  
 - Machine learning foundations  
 - Intelligent, data-aware systems  
 - Clean & structured development  
+
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
