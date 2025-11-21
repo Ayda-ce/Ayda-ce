@@ -6,42 +6,33 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 📦 Skill & Info Grid
+
 <div align="center">
   <table>
     <tr>
-      <td>
+      <!-- TOP LEFT -->
+      <td width="50%" valign="top">
 
-**Languages & Tools**  
+### 🛠️ Technical Skills
 - Python  
 - C++  
 - SQL  
 - Linux & Bash  
 - Git  
-
-**Data & Visualization**  
 - Data Analysis  
 - Power BI  
 - Tableau  
 - Matplotlib  
-
-**Other**  
 - Algorithms & Problem-Solving  
 - UI/UX Principles  
 
       </td>
-    </tr>
-  </table>
-</div>
 
----
+      <!-- TOP RIGHT -->
+      <td width="50%" valign="top">
 
-## 🔎 What I Like to Explore
-<div align="center">
-  <table>
-    <tr>
-      <td>
-
+### 🔎 What I Like to Explore
 - Patterns in data & system behavior  
 - Machine learning foundations  
 - Intelligent, data-aware systems  
@@ -49,22 +40,29 @@
 
       </td>
     </tr>
+
+    <!-- SECOND ROW -->
+    <tr>
+      <td width="50%" valign="top">
+
+### 📊 Most Used Languages
+<p align="center">
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayda-ce&layout=compact&theme=tokyonight&border_radius=12&langs_count=8" />
+</p>
+
+      </td>
+
+      <td width="50%" valign="top">
+
+### ✨ Random Dev Quote
+<p align="center">
+  <img width="300" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+</p>
+
+      </td>
+    </tr>
   </table>
 </div>
-
----
-
-## 📊 Most Used Languages
-<p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayda-ce&layout=compact&theme=tokyonight&border_radius=12&langs_count=8" />
-</p>
-
----
-
-## ✨ Random Dev Quote
-<p align="center">
-  <img width="500" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</p>
 
 ---
 
