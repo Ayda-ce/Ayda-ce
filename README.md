@@ -8,10 +8,11 @@
 
 ## 📦 Skill & Info Boxes
 
-<!-- ROW 1 -->
+<!-- TOP ROW -->
 <div align="center">
 
-<div style="width:45%; display:inline-block; vertical-align:top; border:1px solid #555; border-radius:10px; padding:15px; margin:10px;">
+<!-- BOX 1 -->
+<div style="width:40%; border:1px solid #666; border-radius:12px; padding:15px; margin:10px; display:inline-block; vertical-align:top;">
   
 ### 🛠️ Technical Skills
 - Python  
@@ -28,7 +29,8 @@
 
 </div>
 
-<div style="width:45%; display:inline-block; vertical-align:top; border:1px solid #555; border-radius:10px; padding:15px; margin:10px;">
+<!-- BOX 2 -->
+<div style="width:40%; border:1px solid #666; border-radius:12px; padding:15px; margin:10px; display:inline-block; vertical-align:top;">
 
 ### 🔎 What I Like to Explore
 - Patterns in data & system behavior  
@@ -42,23 +44,25 @@
 
 ---
 
-<!-- ROW 2 -->
+<!-- BOTTOM ROW -->
 <div align="center">
 
-<div style="width:45%; display:inline-block; vertical-align:top; border:1px solid #555; border-radius:10px; padding:15px; margin:10px;">
+<!-- BOX 3 -->
+<div style="width:40%; border:1px solid #666; border-radius:12px; padding:15px; margin:10px; display:inline-block; vertical-align:top;">
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayda-ce&layout=compact&theme=tokyonight&border_radius=12&langs_count=8" />
+  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayda-ce&layout=compact&theme=tokyonight&border_radius=12&langs_count=8" />
 </p>
 
 </div>
 
-<div style="width:45%; display:inline-block; vertical-align:top; border:1px solid #555; border-radius:10px; padding:15px; margin:10px;">
+<!-- BOX 4 -->
+<div style="width:40%; border:1px solid #666; border-radius:12px; padding:15px; margin:10px; display:inline-block; vertical-align:top;">
 
 ### ✨ Random Dev Quote
 <p align="center">
-  <img width="300" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+  <img width="280" src="https://quotes-github-readme-vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </p>
 
 </div>
