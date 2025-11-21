@@ -1,63 +1,44 @@
-<table>
-  <tr>
-    <!-- Skills Card -->
-    <td style="vertical-align:top;">
-      <div style="
-        border:1px solid #444;
-        border-radius:12px;
-        padding:18px;
-        width:260px;
-        background:#0D1117;
-      ">
-        <h3 align="center">🛠️ Technical Skills</h3>
-        <ul>
-          <li><b>Programming</b>: Python, C++</li>
-          <li><b>Data</b>: Analysis & Visualization</li>
-          <li><b>Databases</b>: SQL</li>
-          <li><b>Systems</b>: Linux, Git</li>
-          <li><b>Problem-Solving</b> & Algorithmic Thinking</li>
-        </ul>
-      </div>
-    </td>
+<h1 align="center">Hey, I'm Ayda ✨</h1>
 
-    <!-- Focus Card -->
-    <td style="vertical-align:top;">
-      <div style="
-        border:1px solid #444;
-        border-radius:12px;
-        padding:18px;
-        width:260px;
-        margin-left:10px;
-        margin-right:10px;
-        background:#0D1117;
-      ">
-        <h3 align="center">🎯 Focus</h3>
-        <p align="center">
-          <b>Exploring data, intelligent systems, and the logic behind how things work.</b>
-        </p>
-      </div>
-    </td>
+<p align="center">
+  <b>Exploring data, intelligent systems, and the logic behind how things work.</b>
+</p>
 
-    <!-- Quote Card -->
-    <td style="vertical-align:top;">
-      <div style="
-        border:1px solid #444;
-        border-radius:12px;
-        padding:18px;
-        width:260px;
-        background:#0D1117;
-      ">
-        <h3 align="center">💡 Dev Quote</h3>
-        <p align="center">
-          <img 
-            src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"
-            width="250"
-          />
-        </p>
-        <p align="center">
-          <i>Patterns matter. Details matter.</i>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+---
+
+## 🛠️ Technical Skills
+- Python  
+- C++  
+- SQL  
+- Data Analysis  
+- Data Visualization (Power BI, Tableau, Matplotlib)  
+- Linux & Bash  
+- Git  
+- Algorithms & Problem-Solving  
+- UI/UX Principles  
+
+---
+
+## 🔎 What I Like to Explore
+- Patterns in data & system behavior  
+- Machine learning foundations  
+- Intelligent, data-aware systems  
+- Clean & structured development  
+
+---
+
+## 📊 Most Used Languages
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayda-ce&layout=compact&theme=tokyonight&border_radius=12&langs_count=8" />
+</p>
+
+---
+
+## ✨ Random Dev Quote
+<p align="center">
+  <img width="500" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+</p>
+
+---
+
+<h3 align="center"><i>Patterns matter. Details matter.</i></h3>
