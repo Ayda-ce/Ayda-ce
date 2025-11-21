@@ -1,7 +1,6 @@
 <h1 align="center">Hey, I'm Ayda ✨</h1> <p align="center">
 </p>
 
----
 
 ## 🛠️ Technical Skills
 - Python  
@@ -17,5 +16,6 @@
 ---
 
 <p align="center">
-  <sub>Clean code. Clear logic.</sub>
+  <h2 align="center"><i>Clean Code — Clear Logic</i></h2>
+
 </p>
